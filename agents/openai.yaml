@@ -1,0 +1,4 @@
+interface:
+  display_name: "StepFun API / 阶跃星辰"
+  short_description: "Bilingual StepFun API docs and integration guidance"
+  default_prompt: "Use $stepfun-api to implement or debug a StepFun / 阶跃星辰 chat, image, audio, search, or vector-store integration."
